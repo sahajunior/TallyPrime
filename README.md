@@ -1,2 +1,1 @@
-#
-What is TallyPrime?
+# What is TallyPrime?
