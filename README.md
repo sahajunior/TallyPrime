@@ -1,12 +1,9 @@
 # What is TallyPrime?
 
-- TallyPrime is a business software for Accounting, Iventory and Compliance
+TallyPrime is a business software for Accounting, Iventory and Compliance
 
 
-## Getting Started with TallyPrime
-
-
-## Features of tallyprime
+## Features of TallyPrime
 
 # Accounting
 
